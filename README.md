@@ -210,6 +210,7 @@ Follow this step-by-step test script during your project evaluation:
 5. Click **Deploy**. Vercel will build the project using the included `vercel.json` rewrite rules.
 
 ---
+https://campus-ai-cyan-three.vercel.app ---> click
 
 ## 👥 Contributors & Academic License
 
